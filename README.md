@@ -6,7 +6,7 @@
 
 ###
 
-<img align="left" height="250" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="250" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
@@ -54,7 +54,6 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/ajithbiju-611/ajithbiju-611/languages-output/languages.svg" height="150" alt="languages graph"  />
-  <img src="https://raw.githubusercontent.com/ajithbiju-611/ajithbiju-611/trophy-output/trophy.svg" height="150" alt="trophy graph"  />
 </div>
 
 ###
@@ -67,15 +66,17 @@
 
 ###
 
+<br clear="both">
+
 <div align="left">
   <a href="www.linkedin.com/in/ajith-biju" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/__a.j_i_t.h__?igsh=cG5oaHVhcnQ2dGI=" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
   </a>
-  <a href="https://wa.me/qr/ODDIIBMYYS5TP1" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+  <a href="https://www.facebook.com/profile.php?id=100089202877123" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="facebook logo"  />
   </a>
 </div>
 
