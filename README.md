@@ -6,7 +6,7 @@
 
 ###
 
-<img align="right" height="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWdwZ2pvcGttaWlxYzRkcjlrYXVueW03MHZoanB5dGF4bTBjcDVwNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1gVUhlXhETaRRxzeHO/giphy.gif"  />
+<img align="right" height="300" src="https://www.wallsnapy.com/roronoa-zoro-wallpaper-free-download/21325/">
 
 ###
 
