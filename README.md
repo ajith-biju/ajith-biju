@@ -54,7 +54,7 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/ajithbiju-611/ajithbiju-611/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/ajithbiju-611/ajithbiju-611/languages-output/languages.svg" height="150" alt="languages graph"  />
+  <img src="https://raw.githubusercontent.com/ajithbiju-611/ajithbiju-611/languages-output/languages.svg" height="250" alt="languages graph"  />
 </div>
 
 ###
