@@ -6,7 +6,7 @@
 
 ###
 
-<img align="right" height="250" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="250" src=>
 
 ###
 
@@ -53,7 +53,9 @@
 ###
 
 <div align="center">
+  <img src="https://raw.githubusercontent.com/ajithbiju-611/ajithbiju-611/stats-output/stats.svg" height="150" alt="stats graph"  />
   <img src="https://raw.githubusercontent.com/ajithbiju-611/ajithbiju-611/languages-output/languages.svg" height="150" alt="languages graph"  />
+  <img src="https://raw.githubusercontent.com/ajithbiju-611/ajithbiju-611/trophy-output/trophy.svg" height="150" alt="trophy graph"  />
 </div>
 
 ###
