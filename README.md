@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">I'm Ajith Biju currently pursuing a btech degre. in electronics and instrumention engineering</h3>
+<h3 align="left">I'm Ajith Biju currently pursuing a B.Tech degree in Electronics & Instrumention Engineering.</h3>
 
 ###
 
@@ -10,15 +10,15 @@
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">About Me</h2>
 
 ###
 
-<h4 align="left">i am currenty working on:-<br>    esp32 & iot projects <br>    AI-based metro tickecting<br>    embedded systems and Automation</h4>
+<h4 align="left">I am currenty working on:-<br>    ESP32 & IoT projects <br>    AI-based Metro Tickecting<br>    Embedded Systems and Automation</h4>
 
 ###
 
-<h1 align="left">skills</h1>
+<h1 align="left">Skills</h1>
 
 ###
 
