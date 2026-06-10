@@ -70,7 +70,7 @@
 <br clear="both">
 
 <div align="left">
-  <a href="https:/www.linkedin.com/in/ajith-biju" target="_blank">
+  <a href="https:/www.linkedin.com/in/ajithbiju" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/__a.j_i_t.h__?igsh=cG5oaHVhcnQ2dGI=" target="_blank">
